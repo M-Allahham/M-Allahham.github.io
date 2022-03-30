@@ -1,0 +1,38 @@
+[
+   {
+      "title":"$5 Wells",
+      "text":"Get ur cheap liquor bitch",
+    "location": "Bluegrass Tavern",
+    "type":  "Liquor"
+   },
+   {
+      "title":"free drink amirite?",
+      "text":"stinky",
+    "location": "twokeys",
+    "type":  "whiskey"
+   },
+  {
+    "title": "it's time to duel!",
+    "text": "stinky2",
+    "location": "twokeys",
+    "type": "margarita"
+  },
+  {
+    "title": "stink3",
+    "text": "stinky3",
+    "location": "twokeys",
+    "type": "beer"
+  },
+  {
+    "title": "stink20",
+    "text": "stinky3",
+    "location": "twokeys",
+    "type": "wine"
+  },
+  {
+    "title": "stink3",
+    "text": "stinky3",
+    "location": "twokeys",
+    "type": "beer"
+  }
+]
