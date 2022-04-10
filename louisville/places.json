@@ -3,5 +3,10 @@
       "name": "Play",
       "desc": "Play; Louisville bar",
       "biz": "play-louisville"
+   },
+   {
+      "name": "Magnolia Bar",
+      "desc": "Louisville Bar",
+      "biz": "magnolia-bar-louisville-2"
    }
 ]
