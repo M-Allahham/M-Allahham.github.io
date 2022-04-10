@@ -5,13 +5,13 @@
       "biz": "tin-roof-lexington"
    },
    {
-      "name": "Two Keys Tavern",
-      "desc": "stinky",
-      "biz": "two-keys-tavern-lexington"
+      "name": "McCarthy's Irish Bar",
+      "desc": "McCarthy's is definitely the quintessential Irish bar in town. I love having Magner's and Guinness on draft.  They're always open crazy early for rugby and soccer games.  They only have two TVs in the main bar, but that's usually more than enough.  They also have a TouchTunes jukebox, which tends to be a little quiet most of the time.  Their best kept secret is the massive back patio that spans the length of the building and is divided up into little cabanas.  Definitely more of a college vibe on the weekends.",
+      "biz": "mccarthys-irish-bar-lexington"
    },
    {
       "name": "Bluegrass Tavern",
-      "desc": "Stink!",
+      "desc": "The Bluegrass Tavern has a long history of being one of the best bourbon bars in the South. We are all things BOURBON and ALWAYS have been. We have an extensive selection of bourbon, and a staff that is fastidious about finding new offerings and educating our customers on our current selection. We appeal to a wide variety of patrons and pride ourselves on finding a bourbon guaranteed to fit your palate.",
       "biz": "bluegrass-tavern-lexington"
    }
 ]
